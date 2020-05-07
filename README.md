@@ -1,10 +1,10 @@
 # ImgDB - depictions of revolt and punishment in early modern times
 
-From October 2013 to September 2018, the research group "Revolts as Communicative Events" and their partners in France created an interactive image database to collect, categorise and interpret graphics, paintings and photographs related to conflict and violence between 1400 and 1800.
+From October 2013 to September 2018, the research group "Revolts as Communicative Events" and their partners in France created an interactive image database to collect, categorise and interpret graphics and paintings concerning conflict and violence between 1400 and 1800.
 
 The database contained metadata and thumbnails of revelant images, linking either to external resources on the web or to a local repository of photographs taken by the team members. Among the images created by the research group were photographs of commemorative art in churches and first-hand scans of book illustrations out of print.
 
-At the end of funding period, the "revolt" database comprised almost 1400 unique items. The majority of data relating to France were contributed by our colleagues in Paris and Caen.
+At the end of funding period, the "revolt" database comprised circa 1400 unique items. The majority of data relating to Italy and France were contributed by our colleagues in Paris and Caen.
 
 "ImgDB" was previously hosted by the University of Konstanz (Germany) for internal use as copyright clearance was not possible for all images. 
 
